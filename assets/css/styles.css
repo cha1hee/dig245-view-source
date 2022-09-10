@@ -1,2 +1,47 @@
 
 /* css */
+
+h1 {
+ color: #515031;
+ font-weight: bold;
+ font-family: Courier;
+ text-align: center;
+ font-size: 80px;
+ background-color: #8EBBA7;
+}
+
+p{
+  font-size: 28px;
+  font-family: Courier;
+  text-shadow:
+    -1px -1px 0 #fff,
+    1px -1px 0 #fff,
+    -1px 1px 0 #fff,
+    1px 1px 0 #fff;
+}
+.intro {
+ font-style: italic;
+ color: #819967;
+ font-family: Courier;
+ background-color: #fff;
+}
+
+
+body{
+  background-image: url('https://w0.peakpx.com/wallpaper/147/835/HD-wallpaper-cute-plants-aesthetic-cacti-plant-pot-vsco.jpg');
+  border: 50px solid #8EBBA7;
+  box-sizing: border-box;
+  width:"100%";
+  padding: 40px;
+  margin: 0px;
+}
+
+ol{
+  font-size: 28px;
+  font-family: Courier;
+  text-shadow:
+    -1px -1px 0 #fff,
+    1px -1px 0 #fff,
+    -1px 1px 0 #fff,
+    1px 1px 0 #fff;
+}
