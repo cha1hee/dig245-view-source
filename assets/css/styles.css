@@ -7,10 +7,19 @@ h1 {
  font-family: Courier;
  text-align: center;
  font-size: 80px;
- background-color: #8EBBA7;
+ background-color: #8ebba7;
 }
 
-p{
+h2 {
+ color: #adebbe;
+ font-weight: bold;
+ font-family: Courier;
+ text-align: center;
+ font-size: 40px;
+ background-color: #758184;
+}
+
+center, p{
   font-size: 28px;
   font-family: Courier;
   text-shadow:
@@ -36,7 +45,7 @@ body{
   margin: 0px;
 }
 
-ol{
+ul, ol{
   font-size: 28px;
   font-family: Courier;
   text-shadow:
@@ -44,4 +53,8 @@ ol{
     1px -1px 0 #fff,
     -1px 1px 0 #fff,
     1px 1px 0 #fff;
+}
+
+a{
+  color: #6a8caf;
 }
