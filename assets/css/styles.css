@@ -28,6 +28,7 @@ center, p {
     -1px 1px 0 #fff,
     1px 1px 0 #fff;
 }
+
 .intro {
  font-style: italic;
  color: #819967;
@@ -58,6 +59,7 @@ ul, ol {
 a {
   color: #6a8caf;
 }
+
 figcaption{
   display: block;
   font-family: Courier;
