@@ -62,6 +62,9 @@ a {
 
 .center {
   text-align: center;
+}
+
+.textmod {
   color: #6a8caf;
   font-size: 28px;
   font-family: Courier;
