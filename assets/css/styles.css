@@ -60,6 +60,13 @@ a {
   color: #6a8caf;
 }
 
+.center {
+  text-align: center;
+  color: #6a8caf;
+  font-size: 28px;
+  font-family: Courier;
+}
+
 figcaption{
   display: block;
   font-family: Courier;
